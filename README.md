@@ -78,3 +78,8 @@ This project showcases the power of **Power BI** and **DAX** in providing action
 
 ## 📂 Project File
 [Project File](https://github.com/KRANTHI1854/Electric-Vehicle-Analysis/blob/main/project%20on.pbix)
+
+---
+
+![Electric Vehicle Dashboard Screenshot](https://github.com/KRANTHI1854/Electric-Vehicle-Analysis/blob/main/Screenshot%202025-06-25%20204739.png)
+
